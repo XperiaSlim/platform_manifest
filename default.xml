@@ -177,7 +177,7 @@
   <project path="external/yaffs2" name="SlimRoms/android_external_yaffs2" remote="github" revision="jellybean" />
   <project path="external/zlib" name="SlimRoms/android_external_zlib" remote="github" revision="jellybean" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="SlimRoms/frameworks_av" remote="github" revision="jellybean" />
+  <project path="frameworks/av" name="XperiaSlim/frameworks_av" remote="github" revision="jellybean" />
   <project path="frameworks/base" name="SlimRoms/frameworks_base" remote="github" revision="jb" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
@@ -199,8 +199,8 @@
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="SlimRoms/hardware_broadcom_wlan" remote="github" revision="jellybean" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
-  <project path="hardware/libhardware" name="SlimRoms/hardware_libhardware" remote="github" revision="jellybean" />
-  <project path="hardware/libhardware_legacy" name="SlimRoms/hardware_libhardware_legacy" remote="github" revision="jellybean" />
+  <project path="hardware/libhardware" name="XperiaSlim/hardware_libhardware" remote="github" revision="jellybean" />
+  <project path="hardware/libhardware_legacy" name="XperiaSlim/hardware_libhardware_legacy" remote="github" revision="jellybean" />
   <project path="hardware/msm7k" name="SlimRoms/hardware_msm7k" remote="github" revision="jellybean" />
   <project path="hardware/qcom/audio" name="SlimRoms/hardware_qcom_audio" remote="github" revision="jb" />
   <project path="hardware/qcom/display" name="SlimRoms/hardware_qcom_display" remote="github" revision="jellybean" />
@@ -297,10 +297,10 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="SlimRoms/android_system_bluetooth" remote="github" revision="jellybean" />
-  <project path="system/core" name="SlimRoms/android_system_core" remote="github" revision="jellybean" />
+  <project path="system/core" name="XperiaSlim/android_system_core" remote="github" revision="jellybean" />
   <project path="system/extras" name="SlimRoms/android_system_extras" remote="github" revision="jellybean" />
   <project path="system/media" name="SlimRoms/android_system_media" remote="github" revision="jellybean" />
-  <project path="system/netd" name="SlimRoms/android_system_netd" remote="github" revision="jellybean" />
+  <project path="system/netd" name="XperiaSlim/android_system_netd" remote="github" revision="jellybean" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="SlimRoms/android_system_vold" remote="github" revision="jellybean" />
 
