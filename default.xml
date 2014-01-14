@@ -325,6 +325,6 @@
   <project name="XperiaSlim/android_device_sony_montblanc-common" path="device/sony/montblanc-common" remote="github" revision="jellybean" />
   <project name="XperiaSlim/android_hardware_sony_DASH" path="hardware/somc/dash" remote="github" revision="jellybean" />
   <project name="XperiaSlim/sony-kernel-u8500" path="kernel/sony/u8500" remote="github" revision="jellybean" />
-  <project name="XperiaSlim/android_vendor_sony" path="vendor/sony" remote="github" revision="cm10.1" />
+  <project name="XperiaSlim/android_vendor_sony" path="vendor/sony" remote="github" revision="jellybean" />
   
 </manifest>
