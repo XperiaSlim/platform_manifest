@@ -245,7 +245,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="SlimRoms/packages_apps_Settings" remote="github" revision="jb" />
+  <project path="packages/apps/Settings" name="XperiaSlim/packages_apps_Settings" remote="github" revision="jb" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
@@ -312,6 +312,7 @@
   <project path="vendor/slim" name="SlimRoms/vendor_slim" remote="github" revision="jb" />
 
   <!-- New Additions from CM and other teams -->
+  <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" remote="github" revision="cm-10.1" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="jellybean" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="jellybean" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="jellybean" />
