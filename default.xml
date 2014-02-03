@@ -468,7 +468,7 @@
   <!--Xperia Novathor-->
   
   <project name="XperiaSlim/android_device_sony_kumquat" path="device/sony/kumquat" remote="github" revision="kk4.4" />
-  <project name="Legacy-Xperia/android_hardware_semc" path="hardware/semc/dash" remote="github" revision="master" />
+  <project name="Legacy-Xperia/android_hardware_semc" path="hardware/semc" remote="github" revision="master" />
   <project name="XperiaNovathor/proprietary_vendor_Sony" path="vendor/sony" remote="github" revision="master" />
   <project path="kernel/sony/u8500" name="munjeni/android_kernel_xperiago" remote="github" revision="cm-11" />
   
