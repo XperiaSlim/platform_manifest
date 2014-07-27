@@ -22,7 +22,7 @@
   <project path="bionic" name="SlimRoms/android_bionic" remote="github" revision="jellybean" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="XperiaSlim/bootable_recovery" remote="github" revision="jellybean" />
+  <project path="bootable/recovery" name="XperiaSlim/android_bootable_recovery" remote="github" revision="jellybean" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="SlimRoms/android_dalvik" remote="github" revision="jellybean" />
   <project path="development" name="platform/development" />
