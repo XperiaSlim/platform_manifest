@@ -309,7 +309,7 @@
 
   <project path="platform_manifest" name="XperiaSlim/platform_manifest" remote="github" revision="jb" />
 <!-- New Additions for slim -->
-  <project path="vendor/slim" name="SlimRoms/vendor_slim" remote="github" revision="jb" />
+  <project path="vendor/slim" name="XperiaSlim/vendor_slim" remote="github" revision="jb" />
 
   <!-- New Additions from CM and other teams -->
   <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" remote="github" revision="cm-10.1" />
@@ -327,8 +327,8 @@
   <project name="XperiaSlim/android_device_sony_nypon" path="device/sony/nypon" remote="github" revision="jellybean" />
   <project name="XperiaSlim/android_device_sony_montblanc-common" path="device/sony/montblanc-common" remote="github" revision="jellybean" />
   <project name="XperiaSlim/android_hardware_sony_DASH" path="hardware/somc/dash" remote="github" revision="jellybean" />
-  <project name="XperiaSlim/sony-kernel-u8500" path="kernel/sony/u8500" remote="github" revision="jellybean" />
-  <project name="XperiaSlim/proprietary_vendor_Sony-u8500" path="vendor/sony" remote="github" revision="cm-10.1" />
+  <project name="XperiaSlim/android_kernel_xperiago" path="kernel/sony/u8500" remote="github" revision="jb-dev" />
+  <project name="XperiaSlim/android_vendor_sony" path="vendor/sony" remote="github" revision="jellybean" />
   
   
 </manifest>
